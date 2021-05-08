@@ -1,6 +1,6 @@
 ### Hi there 🙋🏻‍♀️
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macedojeh&layout=compact&show_icons=true&theme=radical" alt="macedojeh's top languages" /><img src="https://github.com/macedojeh/macedojeh/blob/main/OctocatJeh.png?raw=true" alt="octojeh" width="350" align="right" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macedojeh&layout=compact&show_icons=true&theme=radical" alt="macedojeh's top languages" /><img src="https://github.com/macedojeh/macedojeh/blob/main/OctocatJeh.png?raw=true" alt="octojeh" width="350" align="right" style="float:right"/> 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=macedojeh&theme=radical)
 
