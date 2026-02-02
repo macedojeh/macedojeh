@@ -42,7 +42,9 @@
 [<img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jessicaamacedo/)
 [<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>](https://x.com/macedojsk)
 [<img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/macedojeh/)
+<!-- facebook
 [<img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/macedojeh/)
+-->
 [<img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>](https://steamcommunity.com/id/macedojeh/)
 <img src="https://img.shields.io/badge/discord-ayaz1nha-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 
