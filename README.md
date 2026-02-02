@@ -1,9 +1,58 @@
-### Hi there 🙋🏻‍♀️
+<h1 align="center">Hi there 👋 I'm Jessica</h1>
+<h3 align="center">💻 Software Engineer | ☁️ Cloud | 🚀 Lifelong learner</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macedojeh&layout=compact&show_icons=true&theme=radical" alt="macedojeh's top languages" /><img src="https://github.com/macedojeh/macedojeh/blob/main/OctocatJeh.png?raw=true" alt="octojeh" width="350" align="right" style="float:right"/> 
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=macedojeh&theme=radical" width="350"/> 
+## 🚀 About me
+- 👩🏻‍💻 Full-stack developer (NodeJs, TypeScript, ReactJs)
+- ☁️ Cloud & DevOps enthusiast (ACE certificated)
+- 📚 Always learning
+- 🎮 Gamer on free time
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jessicaamacedo/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/macedojeh/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/macedojeh/) [<img src = "https://img.shields.io/badge/steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white">](https://steamcommunity.com/id/macedojeh/)
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=macedojeh&show_icons=true&theme=radical&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macedojeh&layout=compact&theme=radical"/>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,gcp,docker,mysql,git,linux" />
+
+</div>
+
+---
+
+## 🌎 Connect with me
+
+<div align="center">
+
+[<img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jessicaamacedo/)
+[<img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/macedojeh/)
+[<img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/macedojeh/)
+[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/macedojsk)
+[<img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>](https://steamcommunity.com/id/macedojeh/)
+<img src="https://img.shields.io/badge/discord-ayaz1nha-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+
+</div>
+
+---
+
+## 🐍 Contributions
 
 ![Snake animation](https://github.com/macedojeh/macedojeh/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<div align="center">
+✨ Thanks for visiting my profile!
+</div>
