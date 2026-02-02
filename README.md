@@ -43,7 +43,6 @@
 [<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>](https://x.com/macedojsk)
 [<img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/macedojeh/)
 [<img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>](https://steamcommunity.com/id/macedojeh/)
-<img src="https://img.shields.io/badge/discord-ayaz1nha-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 
 </div>
 
