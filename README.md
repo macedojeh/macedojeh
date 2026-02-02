@@ -5,11 +5,11 @@
 
 ## 🚀 About me
 
-- 👩🏻‍💻 Full-stack Developer
+- 👩🏻‍💻 Full-stack Developer (NodeJs, TypeScript, ReactJs)
 - ☁️ Cloud & DevOps enthusiast
 - 🎯 Google Cloud Certified
-- 📚 Always learning new tech
-- 🎮 Gamer in my free time
+- 📚 Always learning
+- 🎮 Gamer on free time
 - 💬 Discord: **ayaz1nha**
 
 ---
