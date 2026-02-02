@@ -1,9 +1,9 @@
-<h1 align="center">Hi there 👋 I'm Jessica</h1>
+<h1 align="center">Hi there 👋 I'm Jéssica</h1>
 <h3 align="center">💻 Software Engineer | ☁️ Cloud | 🚀 Lifelong learner</h3>
 
 ---
 
-### 🚀 About me
+###  About me
 
 - 👩🏻‍💻 Full-stack Developer (NodeJs, TypeScript, ReactJs)
 - ☁️ Cloud & DevOps enthusiast
@@ -16,7 +16,7 @@
 
 <img align="right" height="220em" src="https://github.com/macedojeh/macedojeh/blob/main/OctocatJeh.png?raw=true"/>
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=macedojeh&show_icons=true&theme=radical&count_private=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macedojeh&layout=compact&theme=radical"/>
@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <div align="center">
 
@@ -35,7 +35,7 @@
 
 ---
 
-### 🌎 Connect with me
+### Connect with me
 
 <div align="center">
 
@@ -50,7 +50,7 @@
 
 ---
 
-### 🐍 Contributions
+### Contributions
 
 ![Snake animation](https://github.com/macedojeh/macedojeh/blob/output/github-contribution-grid-snake.svg)
 
